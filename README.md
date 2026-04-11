@@ -17,3 +17,9 @@ This handbook exists to:
 - Use the appendices for checklists, templates, and definitions
 
 This handbook is a **living document** and may evolve as the program grows.
+
+---
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work © 2026 by [Open Source with SLU](https://oss-slu.github.io), the open source program office of Saint Louis University, is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
