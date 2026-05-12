@@ -331,7 +331,3 @@ Copy into wikis, issues, or shared docs; replace bracketed fields.
 | Area | Verified by | Date |
 | --- | --- | --- |
 ```
-
-## Suggested Placement
-
-Position after **Chapter 6 (Project Workflow)** or adjacent to **Chapter 7 (Program Requirements)** so readers meet daily rhythm first, then operating standards. **Chapter 2 (Team Collaboration)** and **Chapter 5 (Product Excellence)** remain the references for communication norms and stakeholder-facing quality. Near **Chapter 8** is reasonable if the handbook is grouped by professional practice. Add a cross-link from Chapter 6 wherever sprints and milestones are introduced so logistics reads as part of delivery, not an optional add-on.
